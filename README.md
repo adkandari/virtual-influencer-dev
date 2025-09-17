@@ -1,4 +1,4 @@
-# Virtual Influencer Creator
+# Virtual Influencer Creator - Dev version
 
 ## Setup
 
